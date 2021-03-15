@@ -5,7 +5,10 @@ intro_content: >
   I'm Anna, an [OU environmental
   science](http://www.open.ac.uk/courses/science/degrees/bsc-natural-sciences-environmental-science-q64-env)
   student with a special interest in moths. This site is to keep a track of
-  everything moth related, from the moths in my garden to events and training.
+  everything moth related, from the moths in my garden to events and training I
+  attend. 
+
+
   The main purpose is as a more easily accessible repository for my rather messy
   stack of notes and to reflect on what I'm learning, but I hope it may prove to
   be a useful resource for others.
