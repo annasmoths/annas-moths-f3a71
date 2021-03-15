@@ -1,6 +1,8 @@
 ---
 title: Resources
-subtitle: lorem-ipsum
+subtitle: >-
+  A good old-fashioned links page, with all the resources I use to learn about
+  moths.
 img_alt: lorem-ipsum
 seo:
   title: ''
