@@ -9,8 +9,8 @@ intro_content: >
   attend.
 
 
-  The main purpose is to reflect on what I'm learning, but I hope it may prove
-  to be a useful resource for others.
+  The main purpose is to reflect as I learning, but I hope it may prove to be a
+  useful resource for others.
 intro_actions:
   - label: Learn More
     url: /about
