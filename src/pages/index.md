@@ -9,7 +9,7 @@ intro_content: >
   read and events I attend.
 
 
-  The main purpose is to reflect as I learning, but I hope it may prove to be a
+  The main purpose is to reflect as I learn, but I hope it may prove to be a
   useful resource for others.
 intro_actions:
   - label: Learn More
