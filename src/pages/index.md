@@ -1,11 +1,14 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >
+  I'm Anna, an [OU environmental
+  science](http://www.open.ac.uk/courses/science/degrees/bsc-natural-sciences-environmental-science-q64-env)
+  student with a special interest in moths. This site is to keep a track of
+  everything moth related, from the moths in my garden to events and training.
+  The main purpose is as a more easily accessible repository for my rather messy
+  stack of notes and to reflect on what I'm learning, but I hope it may prove to
+  be a useful resource for others.
 intro_actions:
   - label: Learn More
     url: /about
