@@ -12,9 +12,9 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+## General information
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+##### Butterfly Conservation - [https://butterfly-conservation.org/moths](https://butterfly-conservation.org/mothsButterfly)
 
-- Lorem ipsum
-- dolor sit amet
+Butterfly conservation is the first stop for moth information, with ID guides, tips on gardening for moths, advice on getting started with recording and up to the minute research and reports. Find out how to get involved with your local branch or how to contribute to citizen science projects including the National Moth Recording Scheme.
+
