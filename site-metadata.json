@@ -23,7 +23,7 @@
             },
             {
                 "label": "Resources",
-                "url": "#",
+                "url": "/resources",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
