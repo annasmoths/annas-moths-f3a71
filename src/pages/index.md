@@ -6,7 +6,7 @@ intro_content: >
   science](http://www.open.ac.uk/courses/science/degrees/bsc-natural-sciences-environmental-science-q64-env)
   student with a special interest in moths. This site is to keep a track of
   everything moth related, like the moths in my garden, articles and books I
-  read and events and training I attend.
+  read and events I attend.
 
 
   The main purpose is to reflect as I learning, but I hope it may prove to be a
