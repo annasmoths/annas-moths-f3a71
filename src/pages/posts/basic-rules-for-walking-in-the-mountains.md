@@ -39,7 +39,7 @@ seo:
 template: post
 excerpt: >-
   Best night of 2021  so far with 16 moths of 4 species, Hebrew Character,
-  Common Quakers Mottled Grey
+  Common Quakers Mottled Grey and Clouded Drab
 date: '2021-03-20'
 subtitle: Best night of 2021  so far with 16 moths of 4 species
 ---
