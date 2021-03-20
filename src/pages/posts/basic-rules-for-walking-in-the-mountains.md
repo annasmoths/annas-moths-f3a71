@@ -55,6 +55,8 @@ Friday night is [Garden Moth Scheme](http://www.gardenmoths.org.uk/) night and w
 
 3 individuals
 
+![](/images/20210320%20CommonQuaker1.jpg)
+
 ### Clouded Drab, *Orthosia incerta*
 
 3 individuals
