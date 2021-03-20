@@ -14,7 +14,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Basic Rules For Walking In The Mountains
+      value: Garden moth trap 19/03/2021
       keyName: property
     - name: 'og:description'
       value: >-
