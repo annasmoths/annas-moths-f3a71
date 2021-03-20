@@ -61,6 +61,10 @@ Friday night is [Garden Moth Scheme](http://www.gardenmoths.org.uk/) night and w
 
 3 individuals
 
+![](/images/20210320\_CloudedDrab1.jpg)
+
 ### Mottled Grey, *Colostygia multistrigaria*
 
 2 individuals
+
+![](/images/20210320\_MottledGrey2.jpg)
