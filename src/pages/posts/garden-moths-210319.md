@@ -1,5 +1,9 @@
 ---
-title: lorem-ipsum 19/3/21
+title: Garden moth trap 19/03/2021
+thumb_img_path: images/20210319 CommonQuakerSq.jpg
+thumb_img_alt: A Common Quaker moth nestled in a damaged section of apple tree trunk..
+content_img_path: images/20210319 CommonQuakerSq.jpg
+content_img_alt: thumb_img_alt: A Common Quaker moth nestled in a damaged section of apple tree trunk..
 subtitle: lorem-ipsum
 date: '2021-03-20'
 thumb_img_alt: lorem-ipsum
