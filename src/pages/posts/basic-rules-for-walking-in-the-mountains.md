@@ -37,7 +37,9 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 template: post
-excerpt: 'Best night of 2021  so far with 16 moths of 4 species, Hebrew Characters, '
+excerpt: >-
+  Best night of 2021  so far with 16 moths of 4 species, Hebrew Characters,
+  Common Quakers, Mottled Grey
 date: '2021-03-20'
 subtitle: Best night of 2021  so far with 16 moths of 4 species
 ---
