@@ -31,8 +31,8 @@ seo:
       value: Basic Rules For Walking In The Mountains
     - name: 'twitter:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        Moths found in my VC78 garden on 19th March 2021 - Hebrew Character,
+        Common Quaker, Clouded Drab and Mottled Grey, plus a burying Beetle.
     - name: 'twitter:image'
       value: /images/20210319%20CommonQuakerSq.jpg
       relativeUrl: true
