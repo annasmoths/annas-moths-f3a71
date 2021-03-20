@@ -7,8 +7,8 @@ content_img_alt: A Large Emerald moth close up on a piece of wood.
 seo:
   title: Garden moth trap 19/03/2021
   description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+    Moths found in my VC78 garden on 19th March 2021 - Hebrew Character, Common
+    Quaker, Clouded Drab and Mottled Grey, plus a burying Beetle.
   extra:
     - name: 'og:type'
       value: article
