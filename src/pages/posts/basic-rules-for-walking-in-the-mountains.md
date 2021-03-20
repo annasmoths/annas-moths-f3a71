@@ -49,6 +49,8 @@ Friday night is [Garden Moth Scheme](http://www.gardenmoths.org.uk/) night and w
 
 8 individuals
 
+![](/images/20210320\_HebrewCharacter3.jpg)
+
 ### Common Quaker, *Orthosia cerasi*
 
 3 individuals
