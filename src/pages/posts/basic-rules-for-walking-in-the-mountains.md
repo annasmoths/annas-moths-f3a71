@@ -2,7 +2,7 @@
 title: Garden moth trap 19/03/2021
 thumb_img_path: images/20210319 CommonQuakerSquare.jpg
 thumb_img_alt: A Large Emerald moth close up on a piece of wood.
-content_img_path: images/20200703_211037.jpg
+content_img_path: images/20210319 CommonQuakerSq.jpg
 content_img_alt: A Large Emerald moth close up on a piece of wood.
 seo:
   title: Basic Rules For Walking In The Mountains
