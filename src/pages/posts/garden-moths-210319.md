@@ -72,4 +72,5 @@ Friday night is [Garden Moth Scheme](http://www.gardenmoths.org.uk/) night and w
 ### Burying Beetle - *Nicrophorus sp.*
 
 A burying beetle on a piece of wood, almost certainly attracted to the light of the trap. When I find these in the trap, they bite holes in my egg boxes, so I'm glad this one stayed out!
+
 ![](/images/20210320\_Nicrophorus.jpg)
