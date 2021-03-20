@@ -43,4 +43,9 @@ excerpt: >-
 date: '2021-03-20'
 subtitle: Best night of 2021  so far with sixteen moths of four species.
 ---
-Friday night is [Garden Moth Scheme](http://www.gardenmoths.org.uk/) night and was the first in 2021 for any moths to turn up. Despite "no moths" still being useful data, it was satisfying to find sixteen  moths of four different species. The temperature went from 4.5 - 8.4°C well above freezing but not exactly warm, but the covering of cloud and waxing crescent moon no doubt helped. 
+Friday night is [Garden Moth Scheme](http://www.gardenmoths.org.uk/) night and was the first in 2021 for any moths to turn up in my garden. Despite "no moths" still being useful data for the scheme, it was satisfying to wake up to sixteen moths of four different species. The temperature went from 4.5 - 8.4°C well above freezing but not exactly warm, but the covering of cloud and waxing crescent moon no doubt helped.
+
+### Hebrew Character, Orthosia Gothica
+
+8 individuals
+
