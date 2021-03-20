@@ -19,7 +19,9 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: Annas Moths
-  description: The preview of the Ampersand theme
+  description: >-
+    A site to keep a track of everything moth related and a record of moths in
+    my Peebleshire garden.
   extra:
     - name: 'og:type'
       value: website
