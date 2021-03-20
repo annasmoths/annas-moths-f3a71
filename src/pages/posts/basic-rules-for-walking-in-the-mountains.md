@@ -68,3 +68,9 @@ Friday night is [Garden Moth Scheme](http://www.gardenmoths.org.uk/) night and w
 2 individuals
 
 ![](/images/20210320\_MottledGrey2.jpg)
+
+
+
+### Burying Beetle - *Nicrophorus sp.*
+
+**![](/images/20210320\_Nicrophorus.jpg)
