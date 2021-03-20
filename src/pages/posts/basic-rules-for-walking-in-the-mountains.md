@@ -5,7 +5,7 @@ thumb_img_alt: A Common Quaker moth nestled in a damaged section of apple tree t
 content_img_path: images/20210319 CommonQuakerSq.jpg
 content_img_alt: A Large Emerald moth close up on a piece of wood.
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: Garden moth trap 19/03/2021
   description: >-
     Hiking refers to difficult walking through dense forest, undergrowth, or
     bushes.
