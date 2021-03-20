@@ -22,7 +22,7 @@ seo:
         bushes.
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: /images/20210319%20CommonQuakerSq.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
